@@ -9,7 +9,7 @@ param parentAccountName string
 param skuName string = 'Standard'
 
 @description('Capacity of the SKU for the deployment. Defaults to 100.')
-param skuCapacity int = 100
+param skuCapacity int = 80
 
 @description('Name of the model to use in the deployment.')
 param modelName string
