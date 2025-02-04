@@ -12,7 +12,7 @@ param embeddingsDeploymentName string
 var deployments = [
   {
     name: completionsDeploymentName
-    skuCapacity: 10
+    skuCapacity: 8
     modelName: completionModelName
     modelVersion: '2024-05-13'
   }
