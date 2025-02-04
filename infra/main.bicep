@@ -45,7 +45,7 @@ var tags = {
 var chatSettings = {
   maxContextWindow: '3'
   cacheSimilarityScore: '0.95'
-  productMaxResults: '10'
+  productMaxResults: '8'
 }
 
 var openAiSettings = {
